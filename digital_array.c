@@ -1,5 +1,5 @@
-#ifndef MY_MAX
-#define MY_MAX
+#ifndef digital_array
+#define digital_array
 
 void input_digital_array(int array[], int size) {
 
